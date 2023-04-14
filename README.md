@@ -7,7 +7,7 @@
 [![Codeforces: THE_DARK_KNIFE](https://img.shields.io/badge/Codeforces-THE_DARK_KNIFE-FFA500?style=flat-square&logo=codeforces)](https://codeforces.com/profile/THE_DARK_KNIFE)
 
 <!-- Your introduction -->
-I'm a sophomore at IIT Mandi, India studying Computer Science and Engineering. I love to do Competitive Programming and I'm very enthusiastic towards learning new algorithms that make steps towards machine learning. In my free time, I like to watch movies and play phone games like Call of Duty.
+I'm a sophomore at IIT Mandi, India studying Electrical Engineering. I love to do Competitive Programming and I'm very enthusiastic towards learning new algorithms that make steps towards machine learning. In my free time, I like to watch movies and play phone games like Call of Duty.
 
 <!-- Your contact information -->
 ## 📫 Contact Information
