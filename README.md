@@ -2,7 +2,6 @@
 # Hi there, I'm Adarsh Santoria! 👋
 
 <!-- Your badges -->
-![Profile views](https://komarev.com/ghpvc/?username=AdarshSantoria&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub](https://img.shields.io/github/followers/adarshsantoria?label=Follow&style=social)](https://github.com/adarshsantoria)
 [![Linkedin](https://img.shields.io/badge/-AdarshSantoria-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-santoria/)](https://www.linkedin.com/in/adarsh-santoria-2aa61b236/)
 [![Codeforces: THE_DARK_KNIFE](https://img.shields.io/badge/Codeforces-THE_DARK_KNIFE-FFA500?style=flat-square&logo=codeforces)](https://codeforces.com/profile/THE_DARK_KNIFE)
