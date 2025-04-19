@@ -6,6 +6,8 @@
 [![GitHub](https://img.shields.io/github/followers/adarshsantoria?label=Follow&style=social)](https://github.com/adarshsantoria)
 [![Linkedin](https://img.shields.io/badge/-AdarshSantoria-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-santoria/)](https://www.linkedin.com/in/adarsh-santoria-2aa61b236/)
 [![Codeforces: THE_DARK_KNIFE](https://img.shields.io/badge/Codeforces-THE_DARK_KNIFE-FFA500?style=flat-square&logo=codeforces)](https://codeforces.com/profile/THE_DARK_KNIFE)
+[![CodeChef: adarshsant](https://img.shields.io/badge/CodeChef-adarshsant-5B4638?style=flat-square&logo=codechef)](https://www.codechef.com/users/adarshsant)
+[![LeetCode: THE_DARK_KNIFE](https://img.shields.io/badge/LeetCode-THE__DARK__KNIFE-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/THE_DARK_KNIFE/)
 
 ---
 
