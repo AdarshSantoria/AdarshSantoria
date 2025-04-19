@@ -19,6 +19,7 @@
 
 <!-- Your introduction -->
 ## 👨‍💻 About Me
+
 I'm a final-year undergraduate at IIT Mandi, passionate about **competitive programming**, **AI research**, and building real-world software solutions.  
 Currently diving deep into the intersection of **Generative AI**, **full-stack engineering**, and **open-source ecosystems**.
 
@@ -44,9 +45,11 @@ In my free time, I enjoy watching movies and playing Call of Duty Mobile. 🎮
 <!-- Your technical skills -->
 ## 💻 Technical Skills
 
-- Languages: C++, Python, HTML-CSS-, Js, PHP, Matlab, Dart, Flutter, Verilog
-- Relevant Libraries: Pandas, Numpy, Matplotlib, Tkinter, Armadillo, MlPack
-- Platforms: Visual Studio, Android Studio, Fusion 360 Solidworks, LT spice, Matlab, Vivado
+- **Languages:** C++, Python, Java, JavaScript, HTML, CSS, PHP, MATLAB  
+- **Frameworks & Libraries:** React.js, Next.js, Flask, Django, Pandas, NumPy, TensorFlow, Tkinter, OpenCV  
+- **ML & AI:** NLP, Deep Learning, Reinforcement Learning, Computer Vision  
+- **Databases & Cloud:** PostgreSQL, MongoDB, MySQL, Firebase, AWS, Azure  
+- **Tools:** Git, Docker, REST APIs, Linux, Windows, Jupyter, Android Studio
 
 <!-- Your GitHub stats -->
 ## 📊 GitHub Stats
@@ -58,10 +61,15 @@ In my free time, I enjoy watching movies and playing Call of Duty Mobile. 🎮
 
 ![Adarsh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshsantoria&layout=compact&theme=radical)
 
-<!-- Your current status -->
-## ⏳ Current Status
+## 🔹 Certifications
+- MathWorks Image Processing Onramp (2024)  
+- Stanford / Coursera: Neural Networks, TensorFlow, and Supervised ML  
+- ICPC Kanpur Regionals Appreciation (2023)  
+- HacktoberFest 2022, 2023  
 
-I'm currently working on improving my skills in machine learning and data science.
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=adarshsantoria&theme=radical&no-frame=true&margin-w=10)
 
 <!-- Your quotes -->
 ## 💬 Quotes
@@ -74,8 +82,4 @@ I'm currently working on improving my skills in machine learning and data scienc
 ## 😂 Random Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=adarshsantoria&theme=radical&no-frame=true&margin-w=10)
 
