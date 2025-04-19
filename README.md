@@ -9,10 +9,11 @@
 
 ---
 
-🎓 Final Year B.Tech (EE) @ IIT Mandi | Minor in CSE | Full Stack Intern @ StylingSphere, AI Intern @ AgentsMadeEasy  
-🧠 Contributor @ Joomla & Mlpack | Published Author (IEEE, Springer, Kindle)  
-🏆 Codeforces Expert | ICPC Kanpur Regionalist | Amazon MLSS 2024  
-🎯 GDSC Lead, ACM Chair & Programming Club Lead @ IIT Mandi
+🎓 Final Year B.Tech (EE) @ IIT Mandi | Minor in CSE  
+💼 Full Stack Intern @ StylingSphere | AI Intern @ AgentsMadeEasy  
+🧠 Open Source Contributor @ Joomla & Mlpack | IEEE/Springer/KDP Author  
+🏆 Codeforces Expert | ICPC Kanpur Regionalist (AIR 269) | Amazon MLSS 2024  
+🎯 GDSC Lead | ACM Chair | Programming Club Lead @ IIT Mandi
 
 ---
 
@@ -30,6 +31,15 @@ In my free time, I enjoy watching movies and playing Call of Duty Mobile. 🎮
 - Email: adarshsantoria@gmail.com
 - Home City: Asansol, West Bengal, India
 - Time Zone: GMT +5:30 (IST)
+- - 📄 [View My Resume](https://drive.google.com/file/d/1wFDfdhyjONBySU6Hm5VdEj_MD6gKrCmu/view?usp=drive_link)  
+
+## 📚 Publications
+
+- 📘 *Survey of Marketing Agents, Agent-Based Models, and Generative AI in Marketing* – IEEE GINOTECH 2025  
+- 📘 *Coding Agents: A Comprehensive Survey of Automated Bug Fixing Systems* – [IEEE CSNT 2025](https://www.csnt.in/Track_CSNT_2.pdf)  
+- 📗 *Generative AI for Personalized Learning and Education* – IEEE ICISS 2025  
+- 📙 *A Comprehensive Survey of Generative AI Agents* – Springer ICTIS 2025  
+- 📕 *Building with LLM Agents: A Comprehensive Guide* – [Amazon Kindle](https://www.amazon.in/dp/B0DSTV1H9X)
 
 <!-- Your technical skills -->
 ## 💻 Technical Skills
