@@ -7,7 +7,17 @@
 [![Linkedin](https://img.shields.io/badge/-AdarshSantoria-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-santoria/)](https://www.linkedin.com/in/adarsh-santoria-2aa61b236/)
 [![Codeforces: THE_DARK_KNIFE](https://img.shields.io/badge/Codeforces-THE_DARK_KNIFE-FFA500?style=flat-square&logo=codeforces)](https://codeforces.com/profile/THE_DARK_KNIFE)
 
+---
+
+🎓 Final Year B.Tech (EE) @ IIT Mandi | Minor in CSE | Full Stack Intern @ StylingSphere, AI Intern @ AgentsMadeEasy  
+🧠 Contributor @ Joomla & Mlpack | Published Author (IEEE, Springer, Kindle)  
+🏆 Codeforces Expert | ICPC Kanpur Regionalist | Amazon MLSS 2024  
+🎯 GDSC Lead, ACM Chair & Programming Club Lead @ IIT Mandi
+
+---
+
 <!-- Your introduction -->
+## 👨‍💻 About Me
 I'm a final-year undergraduate at IIT Mandi, passionate about **competitive programming**, **AI research**, and building real-world software solutions.  
 Currently diving deep into the intersection of **Generative AI**, **full-stack engineering**, and **open-source ecosystems**.
 
