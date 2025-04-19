@@ -31,7 +31,7 @@ In my free time, I enjoy watching movies and playing Call of Duty Mobile. 🎮
 - Email: adarshsantoria@gmail.com
 - Home City: Asansol, West Bengal, India
 - Time Zone: GMT +5:30 (IST)
-- - 📄 [View My Resume](https://drive.google.com/file/d/1wFDfdhyjONBySU6Hm5VdEj_MD6gKrCmu/view?usp=drive_link)  
+- 📄 [View My Resume](https://drive.google.com/file/d/1wFDfdhyjONBySU6Hm5VdEj_MD6gKrCmu/view?usp=drive_link)  
 
 ## 📚 Publications
 
@@ -74,4 +74,8 @@ I'm currently working on improving my skills in machine learning and data scienc
 ## 😂 Random Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=adarshsantoria&theme=radical&no-frame=true&margin-w=10)
 
