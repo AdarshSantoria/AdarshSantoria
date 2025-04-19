@@ -8,7 +8,10 @@
 [![Codeforces: THE_DARK_KNIFE](https://img.shields.io/badge/Codeforces-THE_DARK_KNIFE-FFA500?style=flat-square&logo=codeforces)](https://codeforces.com/profile/THE_DARK_KNIFE)
 
 <!-- Your introduction -->
-I'm a junior at IIT Mandi, India studying Electrical Engineering. I love to do Competitive Programming and I'm very enthusiastic towards learning new algorithms that make steps towards machine learning. In my free time, I like to watch movies and play phone games like Call of Duty.
+I'm a final-year undergraduate at IIT Mandi, passionate about **competitive programming**, **AI research**, and building real-world software solutions.  
+Currently diving deep into the intersection of **Generative AI**, **full-stack engineering**, and **open-source ecosystems**.
+
+In my free time, I enjoy watching movies and playing Call of Duty Mobile. 🎮
 
 <!-- Your contact information -->
 ## 📫 Contact Information
