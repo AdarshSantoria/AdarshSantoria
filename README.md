@@ -63,9 +63,12 @@ In my free time, I enjoy watching movies and playing Call of Duty Mobile. 🎮
 ![Adarsh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshsantoria&layout=compact&theme=radical)
 
 ## 🔹 Certifications
-- MathWorks Image Processing Onramp (2024)  
-- Stanford / Coursera: Neural Networks, TensorFlow, and Supervised ML  
-- ICPC Kanpur Regionals Appreciation (2023)  
+- [MathWorks Image Processing Onramp (2024)](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2d450315-b115-4b86-a470-ae5606ad2b70&)  
+- [Stanford / Coursera: Neural Networks, TensorFlow, and Supervised ML](https://www.coursera.org/account/accomplishments/verify/KG4566MZ2NQS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)  
+- [Foundations of Cybersecurity (Coursera)](https://coursera.org/share/59a5c0e5cd414b8b54756c45df1352af)  
+- [ICPC Kanpur Regionals Appreciation (2023)](https://codedrills.io/contests/icpc-india-preliminary-2023/scoreboard)  
+- [MATLAB Onramp (2022)](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=f9526e3d-6596-4517-af5b-d7ea5edb340f&)  
+- [Certificate of Presentation – SCAD College of Engineering and Technology (2025)](https://drive.google.com/file/d/1XGr57A_h8yEy0Bm91vCnhYk0jabr2P12/view)  
 - HacktoberFest 2022, 2023  
 
 ## 🏆 GitHub Trophies
