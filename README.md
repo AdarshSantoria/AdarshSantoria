@@ -10,8 +10,8 @@
 
 ---
 
-🎓 Final Year B.Tech (EE) @ IIT Mandi | Minor in CSE  
-💼 Full Stack Intern @ StylingSphere | AI Intern @ AgentsMadeEasy  
+💼 Software Engineer @ Nucleus Software | Full Stack Intern @ StylingSphere | AI Intern @ AgentsMadeEasy  
+🎓 Final Year B.Tech (EE) @ IIT Mandi | Minor in CSE | Minor in Management  
 🧠 Open Source Contributor @ Joomla & Mlpack | IEEE/Springer/KDP Author  
 🏆 Codeforces Expert | ICPC Kanpur Regionalist (AIR 269) | Amazon MLSS 2024  
 🎯 GDSC Lead | ACM Chair | Programming Club Lead @ IIT Mandi
@@ -21,10 +21,10 @@
 <!-- Your introduction -->
 ## 👨‍💻 About Me
 
-I'm a final-year undergraduate at IIT Mandi, passionate about **competitive programming**, **AI research**, and building real-world software solutions.  
-Currently diving deep into the intersection of **Generative AI**, **full-stack engineering**, and **open-source ecosystems**.
+Software Engineer at **Nucleus Software**, working on enterprise-grade fintech systems (FinONE Neo) with a focus on **performance optimization, clean code, and scalable architecture**.  
 
-In my free time, I enjoy watching movies and playing Call of Duty Mobile. 🎮
+Graduated B.Tech in **Electrical Engineering (Major)** with **Minors in CSE and Management** from **IIT Mandi**.  
+Passionate about **AI research, competitive programming, and full-stack development**, with experience spanning **Generative AI platforms, multi-agent systems, and open-source contributions**.  
 
 <!-- Your contact information -->
 ## 📫 Contact Information
