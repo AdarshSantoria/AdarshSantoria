@@ -37,10 +37,10 @@ Passionate about **AI research, competitive programming, and full-stack developm
 
 ## 📚 Publications
 
-- 📘 *Survey of Marketing Agents, Agent-Based Models, and Generative AI in Marketing* – IEEE GINOTECH 2025  
-- 📘 *Coding Agents: A Comprehensive Survey of Automated Bug Fixing Systems* – [IEEE CSNT 2025](https://www.csnt.in/Track_CSNT_2.pdf)  
-- 📗 *Generative AI for Personalized Learning and Education* – IEEE ICISS 2025  
-- 📙 *A Comprehensive Survey of Generative AI Agents* – Springer ICTIS 2025  
+- 📘 *Survey of Marketing Agents, Agent-Based Models, and Generative AI in Marketing* – [IEEE GINOTECH 2025](https://ieeexplore.ieee.org/document/11076643)
+- 📘 *Coding Agents: A Comprehensive Survey of Automated Bug Fixing Systems* – [IEEE CSNT 2025](https://ieeexplore.ieee.org/abstract/document/10968728)  
+- 📗 *Generative AI for Personalized Learning and Education* – [IEEE ICISS 2025](https://ieeexplore.ieee.org/document/11076239)
+- 📙 *A Comprehensive Survey of Generative AI Agents* – [Springer ICTIS 2025](https://ictisthailand.com/)
 - 📕 *Building with LLM Agents: A Comprehensive Guide* – [Amazon Kindle](https://www.amazon.in/dp/B0DSTV1H9X)
 
 <!-- Your technical skills -->
@@ -49,7 +49,7 @@ Passionate about **AI research, competitive programming, and full-stack developm
 - **Languages:** C++, Python, Java, JavaScript, HTML, CSS, PHP, MATLAB  
 - **Frameworks & Libraries:** React.js, Next.js, Flask, Django, Pandas, NumPy, TensorFlow, Tkinter, OpenCV  
 - **ML & AI:** NLP, Deep Learning, Reinforcement Learning, Computer Vision  
-- **Databases & Cloud:** PostgreSQL, MongoDB, MySQL, Firebase, AWS, Azure  
+- **Databases & Cloud:** Oracle DB, PostgreSQL, MongoDB, MySQL, Firebase, AWS, Azure  
 - **Tools:** Git, Docker, REST APIs, Linux, Windows, Jupyter, Android Studio
 
 <!-- Your GitHub stats -->
