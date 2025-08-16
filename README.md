@@ -56,6 +56,8 @@ Passionate about **AI research, competitive programming, and full-stack developm
 ## 📊 GitHub Stats
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshsantoria&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=adarshsantoria&theme=radical)
+
 
 <!-- Your most used languages -->
 ## 📈 Most Used Languages
